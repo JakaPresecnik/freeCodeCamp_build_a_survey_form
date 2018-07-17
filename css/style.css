@@ -74,7 +74,18 @@ label {
   border-radius: 5px;
   margin: 15px auto;
 }
-
+footer {
+  background-color: #79d;
+  margin-top: 30px;
+  height: 40px;
+  border-radius: 0px 0px 10px 10px;
+  
+}
+footer p{
+  font-weight: 200;
+  font-size: 0.93em;
+  padding: 12px;;
+}
 @media screen and (max-width: 500px) {
   .right {
     width: 80%;
